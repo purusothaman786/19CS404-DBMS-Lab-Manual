@@ -189,6 +189,7 @@ CREATE TABLE Table_Name (
 
 **Question 8**
 ---
+
 -- Paste Question 8 here
 
 ```sql
